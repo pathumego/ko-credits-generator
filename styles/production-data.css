@@ -1,0 +1,14 @@
+/*********************/
+/*****Production******/
+/*********************/
+
+.production-data {
+  font-family: monospace;
+  font-size: 5pt;
+  background: yellow;
+  position: absolute;
+  top: 0;
+  float: left;
+  width: 100%;
+  z-index: 999;
+}

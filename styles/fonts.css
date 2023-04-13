@@ -1,0 +1,108 @@
+
+@font-face {
+  font-family: 'Kolonbiya';
+  /* src: url("../fonts/Kolonbiya-Regular.otf"); */
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* @font-face {
+  src: url("../fonts/LankaverseSans-Light.otff");
+  font-weight: 300;
+  font-style: normal;  font-family: 'LankaverseSans';
+
+} */
+
+@font-face {
+  font-family: 'LankaverseSans';
+  src: url("../fonts/LankaverseSans-Regular.otf");
+  font-weight: 400;
+  font-style: normal;
+  unicode-range:U+0D80-U+0DFF;
+ } 
+@font-face {
+  font-family: 'LankaverseSans';
+  src: url("../fonts/LankaverseSans-Medium.otf");
+  font-weight: 500;
+  font-style: normal;
+  unicode-range:U+0D80-U+0DFF;
+
+}
+@font-face {
+  font-family: 'LankaverseSans';
+  src: url("../fonts/LankaverseSans-SemiBold.otf");
+  font-weight: 600;
+  font-style: normal;
+  unicode-range:U+0D80-U+0DFF;
+
+}
+@font-face {
+  font-family: 'LankaverseSans';
+  src: url("../fonts/LankaverseSans-Bold.otf");
+  font-weight: 700;
+  font-style: normal;
+  unicode-range:U+0D80-U+0DFF;
+
+} 
+
+
+@font-face {
+  font-family: 'Hind';
+  src: url("../fonts/Hind-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+  unicode-range: U+0000-U+007F;
+ } 
+@font-face {
+  font-family: 'Hind';
+  src: url("../fonts/Hind-Medium.ttf");
+  font-weight: 500;
+  font-style: normal;
+  unicode-range: U+0000-U+007F;
+
+}
+@font-face {
+  font-family: 'Hind';
+  src: url("../fonts/Hind-SemiBold.ttf");
+  font-weight: 600;
+  font-style: normal;
+  unicode-range: U+0000-U+007F;
+
+}
+@font-face {
+  font-family: 'Hind';
+  src: url("../fonts/Hind-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+  unicode-range: U+0000-U+007F;
+
+} 
+
+
+/* @font-face {
+  font-family: 'Maname12';
+  src: url("../fonts/Maname-Regular.ttf");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Maname Initials';
+  src: url("../fonts/ManameInitials-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Maname Ehii';
+  src: url("../fonts/ManameEhi-Regular.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Ahambuu11';
+  src: url("../fonts/Ahambu-Regular.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Ahambuu21';
+  src: url("../fonts/Ahambu2-Regular.ttf");
+  font-weight: 400; */
+}

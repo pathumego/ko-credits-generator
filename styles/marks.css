@@ -1,0 +1,12 @@
+/*Crop marks and bleed adjustments*/
+@page {
+  /*marks: crop cross;*/
+}
+
+@page: left {
+  /*bleed: 5mm 0mm 5mm 5mm;*/
+}
+
+@page: right {
+  /*bleed: 5mm 5mm 5mm 0mm;*/
+}

@@ -1,0 +1,465 @@
+= Trip S03E03
+:stylesheet: styles/styles.css
+:imagesdir: images
+:linkcss:
+
+
+[.tinga-img]
+image::your-production.png[Alt text]
+
+***
+
+[.headphone-img]
+image::info.png[Alt text]
+
+[.caption-si]
+== මෙම වීඩියෝවේ දීප්තිමත් වේගවත් රූප අඩංගු වන 
+[.caption-si]
+== අතර සමහරක් නරඹන්නන්ට අපහසුතාවයක් ඇති විය හැකිය.
+
+
+[.caption-en]
+== -----
+
+[.caption-en]
+== This video contains flashing lights which may cause discomfort 
+[.caption-en]
+== to some viewers and may not be suitable for people with photosensitive epilepsy.
+
+***
+
+[.headphone-img]
+image::headphones.png[Alt text]
+
+[.caption-si]
+== උපරිම රසවින්දනයක් උදෙසා, හෙඩ්ෆොන් භාවිතා කරන්න
+
+[.caption-en]
+== For the best experience, please use headphones
+
+***
+
+[.tinga-img]
+image::tinga.png[Alt text]
+
+[.caption-si]
+== දුර යන ගමන්වල ලඟින් ඉන්නා මිතුරු හදවත් වෙනුවෙන්…
+[.caption-en]
+== To fellow travellers who sit by our side on our journeys…
+
+***
+
+[.left-cast]
+* ශානක උදාර
+* සංජුල විදානගමගේ
+* ධම්මික බණ්ඩාර
+
+[.right-cast]
+* Shanaka Udara
+* Sanjula Vidanagamage
+* Dhammika Bandara
+
+***
+
+[.left-cast]
+* ටිංගා
+* දමිත් එදිරිසිංහ
+
+[.right-cast]
+* Tinga
+* Damith Edirisinghe
+
+
+***
+
+[.left]
+== අධ්‍යක්ෂණය
+* පැතුම් එගොඩවත්ත සහ නදුන් එදිරිසිංහ
+
+[.right]
+== Directed by
+* Pathum Egodawatta with Nadun Edirisinghe
+
+***
+
+[.left]
+== නිෂ්පාදනය
+* රාධා වීරරත්න 
+
+[.right]
+== Produced by
+* Radha Weerarathne
+
+***
+[.left]
+== විධායක නිෂ්පාදනය 
+* රනුක කාරියවසම් 
+
+[.right]
+== Head of the Production
+* Ranuka Kariyawasam
+
+***
+[.left]
+== විධායක නිෂ්පාදනය 
+* චන්දුල කුමාරගේ 
+* පැතුම් එගොඩවත්ත 
+* නිලංක නිසලාංජල් 
+
+[.right]
+== Execetive Producer
+* Chandula Kumarage
+* Pathum Egodawatta
+* Nilanka Nisalanjal
+
+***
+
+[.left]
+== සම නිෂ්පාදනය
+* කසුන් ඉන්දි
+* ගිහාන් කරුණාරත්න
+* මිතුන් මිලින්ද
+* චාමික රණවක
+
+[.right]
+== Community Producers
+* Kasun Indi
+* Gihan Karunarathne
+* Mithun Malinda
+* Chamika Ranawaka
+
+***
+
+[.left-patreon]
+== අතහිත දුන් රසිකයින් 
+සුපුන් නෙත්මල්, ජේ එන් ඩි මදුවන්ත, චරිත් ප්‍රමෝද්ය, මලිත් ඩි සිල්වා, +
+දර්ශණ ගුණවර්ධන, නිෂිත වීරකෝන්, නුවන් ශිල්ප, ගිහාන් කරුණාරත්න, 
+දනුජ විජයතිලක, දිලෝ වීරසිංහ, විශාන් කාවින්ද, අමල් අමරනායක, ඕෂද තිරිමාවිතාන, කමල් ප්‍රියශාන්ත, ෂිරන්ත කසුන් , රවිදු, රාජ් පෙරේරා, කුමුදිත උඩගම, යමින්ත අයේශ්, ගයාන්, තත්මි ධර්මදාස, නිපුන පෙරේරා, බුද්ධි ඩී සොයිසා, තරංග ජලත්ගේ, තිලිණි, භාසුර ගුණවර්ධන, තරිදු ජයසංක, මොනාලි දහනායක, සුදර්ක විජේසිංහ, 
+චෙවිඳු, මනෝජ් ගුණවර්ධන, දිමුත් කන්නන්ගර, උදාර ගීවන්දර, කසුන්, නදීශ් හේමචන්ද්‍ර, දිනුවන් රන්දුනු, ශමින්ද, SL Roonde, SL Unic Vlogs  +
+
+
+[.right-patreon]
+== Patrons of Kolonbiya
+Supun Nethmal, J.N.D Maduwantha, Charith Pramodya, + 
+Malith de Silva, Darshana Gunawardana, Nishitha Weerakoon, 
+Nuwan Shilpa, Gihan Karunarathne, Danuja Wijayathilaka, 
+Dilo Weerasinghe, Vishan Kavinda, + 
+Amal Amaranayake, Oshadha Thrimavithana, Kamal Priyashantha, Shirantha Kasun, 
+Ravindu, Raj Perera,Kumuditha Udugama, Yamintha Ayash, Gayan, 
+Thathmi Dharmadasa, Nipuna Perera, Buddhi De Zoysa, 
+Tharanga Jalathge, Thilini, Bhasura Gunawardhana, Tharindu Jayasanka, 
+Monali Dahanayake, + 
+Sudaraka Wijesinghe, Chevindu, Manoj Gunawardana, 
+Dimuth Kannangara, Udara Geewandara, Kasun, Nadeesh Hemachandra,
+Dinuwan Randunu, Shaminda, SL Roonde, SL Unic Vlogs
+
+***
+
+[.left]
+== කතාව සහ තිර රචනය
+* පැතුම් එගොඩවත්ත
+* නිලංක නිසලාංජල්
+* චානක බණ්ඩාර
+
+[.right]
+== Story and Script
+* Pathum Egodawatta
+* Nilanka Nisalanja
+* Chanaka Bandara
+
+***
+
+[.left]
+== කැමරා අධ්‍යක්ෂණය 
+* ශිහාර ඕශා
+
+[.right]
+== Director of Photography 
+* Shihara Osha
+
+***
+
+[.left]
+== චිත්‍රක
+* නදුන් එදිරිසිංහ
+* ධනුශ්ක ආරියරත්න
+
+[.right]
+== Illustrations
+* Nadun Edirisinghe
+* Dhanushka Ariyarathne
+
+***
+
+[.left]
+== කලාකරුවන්
+* ධනුශ්ක ආරියරත්න
+* නුවන් ශිල්ප හෙන්නායක
+* ලලිත් රත්නායක
+* ලහිරු ජයකොඩි
+* රාජිත මනම්පේරි
+* රෝශන් කමල්
+
+[.right]
+== Contributing Artists
+* Dhanushka Ariyarathne
+* Nuwan Shilpa Hennayaka
+* Lalith Rathnayake
+* Lahiru Jayakody
+* Rajitha Manamperi
+* Roashan Kamal
+
+***
+
+[.left]
+== Prompt engineering and AI-assisted animation 
+* නුවන් ශිල්ප හෙන්නායක 
+
+[.right]
+== Prompt engineering for AI-assisted animations 
+* Nuwan Shilpa Hennayaka
+
+***
+
+[.left]
+== ප්‍රධාන සජීවිකරණ ශිල්පී
+* නදුන් එදිරිසිංහ 
+
+[.right]
+== Lead Animator
+* Nadun Edirisinghe
+
+***
+
+[.left]
+== සජීවිකරණ ශිල්පීන්
+* නුවන් ශිල්ප හෙන්නායක
+* විහඟ සමරදිවාකර
+
+[.right]
+== Animators
+* Nuwan Shilpa Hennayaka
+* Vihanga Samaradiwakara
+
+***
+
+[.left]
+== සංගීතය
+* මංජිත තෙන්නකෝන්
+
+[.right]
+== Music direction by
+* Manjitha Thennakoon
+
+***
+
+[.center]
+== ko Universe Original Music
+
+[.left-music]
+* "සතුටේ මල් පිපුනා" මංජිත තෙන්නකෝන්
+
+[.right-music]
+* "Sathute Mal Pipuna" by Manjitha Thennakoon  
+
+[.left-2]
+* "සුබ ගමන්" හර්ෂන් දන්තනාරායන [.en]#(DJ Marius)# ශමික මාකලන්ද 
+
+[.right-2]
+* "Suba Gaman" Harshan Dantanarayana(DJ Marius) +
+with Shamika Makalanda
+
+// [.left-2]
+// * දර කඩන ගීතය - මංජිත තෙන්නකෝන්
+
+// [.right-2]
+// * "Dara Keliya" by Manjitha Thennakoon
+
+
+
+
+
+
+
+
+***
+
+
+[.left]
+== සංස්කරණය
+* චන්දුල කුමාරගේ
+
+[.right]
+== Editor
+* Chandula Kumarage
+
+***
+
+[.left]
+== වර්ණ සංයෝජනය
+* තරිඳු ජයකොඩි
+
+[.right]
+== Colorist
+* Tharindu Jayakody 
+
+***
+
+[.left]
+== දෙවන කැමරාව 
+* නදුන් එදිරිසිංහ 
+* තිසර මධුවන්ත
+
+[.right]
+== 2nd camera
+* Nadun Edirisinghe
+* Thisara Maduwantha
+
+***
+
+[.left]
+== කැමරා සහය 
+* දිනෙත් අලහකෝන්
+
+[.right]
+== Camera Assistant
+* Dineth Alahakoon
+
+***
+
+[.left]
+== ශබ්ද පරිපාලනය 
+* පසිඳු ඒකනායක
+
+[.right]
+== Audio Recording
+* Pasindu Ekanayake
+
+*** 
+
+[.left]
+== සහය අධ්‍යක්ෂණය
+* චානක බණ්ඩාර
+
+[.right]
+== Assistant Director
+* Chanaka Bandara
+
+***
+
+[.left]
+== කලා අධ්‍යක්ෂණය
+* නදීක හේවා කන්ඩම්බි
+
+[.right]
+== Art Direction
+* Nadeeka Hewa Kandambi
+
+[.left-2]
+== කලා අධ්‍යක්ෂණය සහය
+* චතුරංග පෙරේරා
+
+[.right-2]
+== Assistant Art Direction
+* Chathuranga Perera
+
+***
+
+[.left]
+== ඇඳුම් නිර්මාණය
+* ධනූ සමරසිංහ
+
+[.right]
+== Costume design
+* Dhanu Samarasinghe
+
+***
+
+[.left]
+== නිෂ්පාදන කළමනාකරණය 
+* හසිත් එදිරිසිංහ
+* කසුන් ලියනගේ
+
+[.right]
+== Production Management
+* Hasith Edirisinghe
+* Kasun Liyanage
+
+***
+
+[.left]
+== ඉංග්‍රිසි උපසිරැසි
+* පසන් රණවීර
+
+[.right]
+== English subtitles
+* Pasan Ranaweera
+
+***
+
+[.left]
+== චිත්‍රාගාර සහකරු
+* සෙන්ස් ඉමේජරි
+
+[.right]
+== Studio Partner
+* Sense Imagery 
+
+***
+
+[.left]
+== ප්‍රවාහන පහසුකම්  
+* සුරංග දේශප්‍රිය [.en]#(Infinty Tours Lanka)#
+
+[.right]
+== Transport Management
+* Suranga Deshapriya (Infinty Tours Lanka)
+
+[.left-2]
+== කැමරා උපකරණ 
+* කැඩ්මාස් නිෂ්පාදන 
+
+[.right-2]
+== Equipment partner
+* Kadmas Productions 
+
+[.left-3]
+== ප්‍රචාරණ චිත්‍රක නිර්මාණය 
+යසිරු සමරසිංහ 
+
+[.right-3]
+==  Graphic Designer
+Yasiru Samarasinghe
+
+***
+
+[.left]
+== විශේෂ ස්තුතිය
+* කපිල එදිරිසිංහ 
+* ශ්‍රියාලතා සුබසිංහ
+* හංසානි එදිරිසිංහ
+* අශේන් ධනංජන 
+* පැතුම් මාලිංග 
+* රජීව රාමනායක 
+* චරක වික්‍රමගේ
+* සජාන් පීරිස්
+
+
+[.right]
+== Special thanks
+* Kapila Edirisinghe
+* Sriyalalatha Subhasinghe
+* Hansani Edirisinghe
+* Ashen Dhananjana
+* Pathum Malinga
+* Charaka Wickramage
+* Rajeeva Ramanyake
+* Sajaan Peiris
+
+***
+
+[.tinga-img]
+image::ko_u presents.png[Alt text]
+
+***
+

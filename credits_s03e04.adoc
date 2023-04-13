@@ -1,0 +1,266 @@
+= Avurudu S03E04
+:stylesheet: styles/styles.css
+:imagesdir: images
+:linkcss:
+
+***
+
+[.tinga-img]
+image::your-production.png[]
+
+සිසර්ර්ර් Bro, Isanka Weerawanni, Tharusha Silva, Mayura Silva, Lahiru Indrachapa, Xzavierpouross, Akhila Wellappuli, Supun Nethmal, J.n.d Maduwantha, Charith Pramodya, Malith De Silva, Darshana Gunawardana, Nishitha Weerakoon, Nuwan Shilpa, Gihan Karunarathne, Danuja Wijayathilaka, Dilo Weerasinghe, Vishan Kavinda, Amal Amaranayake, Oshadha Thrimavithana, Kamal Priyashantha, Shirantha Kasun, R, Raj Perera, Kumuditha Udugama, Yamintha Ayash, Gayan, Thathmi Dharmadasa, Nipuna Perera, Buddhi De Zoysa, Tharanga Jalathge, Thilini, Bhasura Gunawardhana, Tharindu Jayasanka, Monali Dahanayake, Sudaraka Wijesinghe, Chevindu, Manoj Gunawardana, Dimuth Kannangara, Udara Geewandara, Kasun, Danuja Prabashwara, Kalana Bamunusinghe, Nadeesh Hemachandra, R Dinuwan Randunu, Sahan Sirisekara, Shaminda, Sl Roonde, Sl Unic Vlogs
+
+
+***
+
+[.left-cast]
+* ශානක උදාර
+* චානක බණ්ඩාර
+* සඳුන් ලක්ෂාන්
+* ධම්මික බණ්ඩාර
+
+[.right-cast]
+* Shanaka Udara
+* Chanaka Bandara
+* Sandun Lakshan
+* Dhammika Bandara
+
+
+***
+
+[.left-cast]
+== ආරාධිත රංගනය
+* පසන් රණවීර 
+
+[.right-cast]
+== Guest appearance
+* Pasan Ranaweera
+
+
+***
+
+[.left]
+== අධ්‍යක්ෂණය
+* ජනාදර සමරදිවාකර
+
+[.right]
+== Directed by
+* Janadara Samaradiwakara
+
+***
+
+[.left]
+== කතාව සහ තිර රචනය
+* නිලංක නිසලාංජල්
+
+[.right]
+== Story and script
+* Nilanka Nisalanja
+
+***
+
+[.left]
+== නිෂ්පාදනය
+* රසික ඔබගේ නිෂ්පාදනයක් 
+ 
+
+[.right]
+== Produced by
+* Produced with your support
+
+***
+
+[.left]
+== සම නිෂ්පාදනය
+* කසුන් ඉන්දි
+* ගිහාන් කරුණාරත්න
+* මිතුන් මිලින්ද
+* චාමික රණවක
+
+[.right]
+== Community Producers
+* Kasun Indi
+* Gihan Karunarathne
+* Mithun Malinda
+* Chamika Ranawaka
+
+***
+[.left]
+== විධායක නිෂ්පාදනය 
+* රනුක කාරියවසම් 
+
+[.right]
+== Head of the Production
+* Ranuka Kariyawasam
+
+***
+[.left]
+== විධායක නිෂ්පාදනය 
+* චන්දුල කුමාරගේ 
+* පැතුම් එගොඩවත්ත 
+* නිලංක නිසලාංජල්
+
+[.right]
+== Execetive Producer
+* Chandula Kumarage
+* Pathum Egodawatta
+* Nilanka Nisalanjal
+
+***
+
+[.left]
+== සම නිෂ්පාදනය
+* කසුන් ඉන්දි
+* ගිහාන් කරුණාරත්න
+* මිතුන් මිලින්ද
+* චාමික රණවක
+
+[.right]
+== Community Producers
+* Kasun Indi
+* Gihan Karunarathne
+* Mithun Malinda
+* Chamika Ranawaka
+
+***
+
+[.left]
+== කැමරා අධ්‍යක්ෂණය, ආලෝකකරණය සහ වර්ණ සංයෝජනය
+* තරිඳු ජයකොඩි
+
+[.right]
+== Director of photography, lighting and colorist 
+* Tharindu Jayakody
+
+***
+
+[.left]
+== සංගීතය
+* මංජිත තෙන්නකෝන්
+
+[.right]
+== Music
+* Manjitha Thennakoon
+
+***
+
+[.left]
+== සංස්කරණය
+* චන්දුල කුමාරගේ
+
+[.right]
+== Editing
+* Chandula Kumarage
+
+***
+
+[.left]
+== සහය අධ්‍යක්ෂණය 
+* චමත් හෙට්ටිආරච්චි
+* දමිත් ග්‍රේෂන්  
+
+
+[.right]
+== Assistant Director
+* Chamath Hettiarachchi
+* Damith Greshan
+
+***
+
+[.left]
+== දෙවන කැමරාව 
+* ශිහාර ඕශා
+
+[.right]
+== 2nd camera
+* Shihara Osha
+
+[.left-2]
+== කැමරා සහය 
+* දිනෙත් අලහකෝන්
+
+[.right-2]
+== Camera Assistant
+* Dineth Alahakoon
+
+***
+
+[.left]
+== කලා අධ්‍යක්ෂණය
+* නදීක හේවා කන්ඩම්බි
+
+[.right]
+== Art Direction
+* Nadeeka Hewa Kandambi
+
+[.left-2]
+== කලා අධ්‍යක්ෂණය සහය
+* චතුරංග පෙරේරා
+* දුලාජ් චාමර 
+* බෙත්මින් ගම්සික 
+* අකිල ප්‍රමෝද් 
+
+[.right-2]
+== Assistant Art Direction
+* Chathuranga Perera
+* Bethmin Gamsika
+* Dulaj Chamara
+* Akila Pramod
+
+***
+
+[.left]
+== ඇඳුම් නිර්මාණය
+* ධනූ සමරසිංහ
+
+[.right]
+== Costume design
+* Dhanu Samarasinghe
+
+***
+
+[.left]
+== නිෂ්පාදන කළමනාකරණය 
+* කසුන් ලියනගේ
+
+[.right]
+== Production Management
+* Kasun Liyanage
+
+***
+
+[.left]
+== ශබ්ද පරිපාලනය 
+* පසිඳු ඒකනායක
+
+[.right]
+== Audio Recording
+* Pasindu Ekanayake
+
+[.left-2]
+== ශබ්ද පරිපාලන සහය
+* චතුස්ක නිමන්ද 
+
+[.right-2]
+== Audio recording assistant
+* Chathushka Nimanda
+
+***
+
+[.left]
+== තාක්ෂණික සහය 
+* තිසර මධුවන්ත
+
+[.right]
+== Technical assistance
+* Thisara Maduwantha
+
+[.left-2]
+== ප්‍රචාරණ චිත්‍රක නිර්මාණය 
+* යසිරු සමරසිංහ 
+
+[.right-2]
+==  Graphic Designer
+* Yasiru Samarasinghe
+
+***

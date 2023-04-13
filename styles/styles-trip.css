@@ -1,0 +1,423 @@
+@import url("normalize.css"); /* Using a url */
+@import url("fonts.css"); /* Using a url */
+
+
+/*********************/
+
+/******General*******/
+
+/*********************/
+
+html {
+  hyphens: auto
+}
+
+@media print {
+  body {
+    /* font-family: 'Maname12'; */
+    font-weight: normal;
+    margin: 0;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+    page-break-after: avoid;
+  }
+  h2 {
+    bookmark-level: none
+  }
+  pre, blockquote {}
+}
+
+@page {
+  size: 1920px 1080px ;
+  color: rgba(0, 0, 0, 0);
+  /* Paper size for print */
+}
+
+@page :blank {
+  @top-center {
+    content: ""
+  }
+}
+
+.page-break {
+  display: block;
+  page-break-before: always;
+}
+
+hr {
+  display: block;
+  page-break-before: always;
+  visibility: hidden;
+  padding: 0;
+  margin: 0;
+}
+
+.headphone-img img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 220px;
+  margin-top: 320px;
+  margin-bottom: 30px;
+}
+
+
+/******** notice *********/
+
+.notice-si {
+  font-family: 'LankaverseSans';
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.notice-si h2 {
+font-size: 20px;;
+
+}
+
+.notice-en {
+  font-family: 'Hind';
+  margin-top: 20px;
+  text-align: center;
+  display: block;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+
+/******** dedication *********/
+
+.caption-si {
+  font-family: 'LankaverseSans';
+  text-align: center;
+  position: relative;
+  display: block;
+  margin-top: 15px;
+}
+
+.caption-en {
+  font-family: 'Hind';
+  margin-top: 20px;
+  text-align: center;
+  position: relative;
+  display: block;
+}
+
+.tinga-img img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 220px;
+  margin-top: 320px;
+  margin-bottom: 30px;
+
+}
+
+
+
+
+/******** CAST *********/
+
+.left-cast {
+  top: 400px;
+  float: left; 
+  position:relative;
+  font-family: 'LankaverseSans';
+  text-align: right;
+  width: 50%;
+  margin-right: 40px;
+}
+
+.right-cast {
+  top: 403px;
+  text-align: left;
+  font-family: 'Hind';
+  position:relative;
+  /* padding-left: 300px; */
+  font-family: 'Hind';
+  /* left: 960px; */
+  margin-left: 30px;
+  padding-left: 30px;
+
+
+}
+
+
+/******** patrons list *********/
+
+.left-patreon {
+  margin: 0;
+  line-height: 1.4;
+  padding-top: 5px;
+  font-size: 17pt;
+
+  top: 400px;
+  float: left; 
+  position:relative;
+  font-family: 'LankaverseSans';
+  text-align: right;
+  width: 50%;
+  margin-right: 30px;
+}
+
+.right-patreon {
+  margin: 0;
+  padding-top: 5px;
+  font-size: 19pt;
+  line-height: 1.4;
+
+  top: 400px;
+  text-align: left;
+  font-family: 'Hind';
+  position:relative;
+  /* padding-left: 300px; */
+  font-family: 'Hind';
+  /* left: 960px; */
+
+}
+
+
+/******** MUSIC *********/
+
+.left-music {
+  margin: 0;
+  line-height: 1.4;
+  padding-top: 5px;
+  font-size: 20pt;
+
+  top: 0px;
+  float: left; 
+  position:relative;
+  font-family: 'LankaverseSans';
+  text-align: right;
+  width: 50%;
+  margin-right: 30px;
+}
+
+.left-music h2 {
+  font-family: 'Hind';
+
+}
+
+.right-music {
+  margin: 0;
+  padding-top: 5px;
+  font-size: 19pt;
+  line-height: 1.4;
+
+  top: 2px;
+  text-align: left;
+  font-family: 'Hind';
+  position:relative;
+  /* padding-left: 300px; */
+  font-family: 'Hind';
+  /* left: 960px; */
+  margin-left: 30px;
+
+}
+
+.center {
+  top: 0px;
+  font-family: 'Hind';
+  text-align: center;
+  position: relative;
+}
+
+.center-music h2 {
+  font-family: 'Hind';
+  text-align: center;
+  position: relative;
+}
+
+.center-music p {
+  top: 500px;
+  font-family: 'LankaverseSans';
+  position: relative;
+}
+
+.tableblock {
+  /* position: relative; */
+  /* display: block; */
+  /* margin: 0 auto; */
+  font-size: 17pt;
+}
+
+
+
+/******** base *********/
+
+h1 {
+  font-family: 'kolonbiya';
+}
+
+h2, h3 {
+  /* text-indent: 3mm; */
+  margin: 0;
+  line-height: 1;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 20pt;
+}
+
+.left {
+  top: 400px;
+  float: left; 
+  position:relative;
+  font-family: 'LankaverseSans';
+  text-align: right;
+  width: 50%;
+  margin-right: 30px;
+}
+
+.ulist {
+  /* font-size: 20pt; */
+  font-weight: 600;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style-type: none;
+  }
+
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  }
+
+li p {
+  margin: 0;
+  padding-top: 5px;
+  font-size: 20pt;
+}
+
+.left li p {
+  font-family: 'LankaverseSans';
+}
+
+.right li p {
+  font-family: 'Hind';
+}
+
+.right {
+  top: 403px;
+  text-align: left;
+  font-family: 'Hind';
+  position:relative;
+  /* padding-left: 300px; */
+  font-family: 'Hind';
+  /* left: 960px; */
+}
+
+.left-2 {
+  top: 420px;
+  float: left;
+  position:relative;
+  font-family: 'LankaverseSans';
+  text-align: right;
+  width: 50%;
+  margin-right: 30px;
+}
+
+.left-3 {
+  /* top: 420px; */
+  float: left;
+  position:relative;
+  font-family: 'LankaverseSans';
+  text-align: right;
+  width: 50%;
+  margin-right: 30px;
+}
+
+.song-credit {
+  color: brown;
+}
+
+.right-2 {
+  top: 423px;
+  font-family: 'Hind';
+  text-align: left;
+  position:relative;
+  padding-left: 300px;
+  /* left: 960px; */
+}
+
+.right-2 li p {
+  font-family: 'Hind';
+
+}
+
+.right-fix {
+  top: 400px;
+  text-align: left;
+  font-family: 'Hind';
+  position:relative;
+  margin-left: 925px;
+  /* left: 960px; */
+}
+
+.right-fix li p {
+  font-family: 'Hind';
+}
+
+.center {
+  top: 400px;
+  text-align: center;
+  position: relative;
+}
+
+.en{
+  font-family: 'Hind';
+}
+
+
+/********Images*********/
+
+.figure {
+  margin: -100pt;
+  z-index: -999;
+  position: absolute;
+}
+
+.full-bleed-page-left {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: monospace;
+  width: 140mm;
+  height: 256mm;
+  padding: 0;
+  background: url(../scripts/blank_img.svg);
+  margin: -17mm 0mm 0mm -30mm;
+  page-break-before: right;
+}
+
+.full-bleed-page-left img {
+  float: left;
+  width: 205%;
+}
+
+.full-bleed-page-right {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: monospace;
+  width: 140mm;
+  height: 246mm;
+  padding: 0;
+  background: url(../scripts/blank_img.svg);
+  margin: -17mm 0mm 0mm 0mm;
+}
+
+.full-bleed-page-right img {
+  float: right;
+  width: 205%;
+}
