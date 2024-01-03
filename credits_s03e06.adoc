@@ -1,0 +1,260 @@
+= Avurudu S03E04
+:stylesheet: styles/styles.css
+:imagesdir: images
+:linkcss:
+
+***
+
+[.tinga-img]
+image::your-production.png[]
+
+සිසර්ර්ර් Bro, Isanka Weerawanni, Tharusha Silva, Mayura Silva, Lahiru Indrachapa, Xzavierpouross, Akhila Wellappuli, Supun Nethmal, J.n.d Maduwantha, Charith Pramodya, Malith De Silva, Darshana Gunawardana, Nishitha Weerakoon, Nuwan Shilpa, Gihan Karunarathne, Danuja Wijayathilaka, Dilo Weerasinghe, Vishan Kavinda, Amal Amaranayake, Oshadha Thrimavithana, Kamal Priyashantha, Shirantha Kasun, R, Raj Perera, Kumuditha Udugama, Yamintha Ayash, Gayan, Thathmi Dharmadasa, Nipuna Perera, Buddhi De Zoysa, Tharanga Jalathge, Thilini, Bhasura Gunawardhana, Tharindu Jayasanka, Monali Dahanayake, Sudaraka Wijesinghe, Chevindu, Manoj Gunawardana, Dimuth Kannangara, Udara Geewandara, Kasun, Danuja Prabashwara, Kalana Bamunusinghe, Nadeesh Hemachandra, R Dinuwan Randunu, Sahan Sirisekara, Shaminda, Sl Roonde, Sl Unic Vlogs
+
+
+***
+
+[.left-cast]
+* ශානක උදාර
+* චානක බණ්ඩාර
+* සඳුන් ලක්ෂාන්
+* ධම්මික බණ්ඩාර
+
+[.right-cast]
+* Shanaka Udara
+* Chanaka Bandara
+* Sandun Lakshan
+* Dhammika Bandara
+
+***
+
+[.left]
+== නිර්මාණය
+* නිලංක නිසලාංජල්
+
+[.right]
+== Created by
+* Nilanka Nisalanjal
+
+***
+
+[.left]
+== අධ්‍යක්ෂණය
+* තරිඳු රණේපුර
+
+[.right]
+== Directed by
+* Tharindu Ranepura
+
+***
+
+[.left]
+== කතාව සහ තිර රචනය
+* නිලංක නිසලාංජල්
+
+[.right]
+== Story and script
+* Nilanka Nisalanjal
+
+***
+
+[.left]
+== නිෂ්පාදනය
+* රසික ඔබගේ නිෂ්පාදනයක් 
+ 
+
+[.right]
+== Produced by
+* Produced with your support
+
+***
+[.left]
+== විධායක නිෂ්පාදනය 
+* රනුක කාරියවසම් 
+
+[.right]
+== Head of the Production
+* Ranuka Kariyawasam
+
+***
+[.left]
+== විධායක නිෂ්පාදනය 
+* පැතුම් එගොඩවත්ත 
+* චන්දුල කුමාරගේ 
+* නිලංක නිසලාංජල්
+
+[.right]
+== Execetive Producer
+* Pathum Egodawatta
+* Chandula Kumarage
+* Nilanka Nisalanjal
+
+***
+
+[.left]
+== කැමරා අධ්‍යක්ෂණය, ආලෝකකරණය සහ වර්ණ සංයෝජනය
+* තරිඳු ජයකොඩි
+
+[.right]
+== Director of photography, lighting and colorist 
+* Tharindu Jayakody
+
+***
+
+[.left]
+== සංගීතය
+* මංජිත තෙන්නකෝන්
+
+[.right]
+== Music
+* Manjitha Thennakoon
+
+***
+
+[.left]
+== සංස්කරණය
+* චන්දුල කුමාරගේ
+
+[.right]
+== Editing
+* Chandula Kumarage
+
+***
+
+[.left]
+== සහය අධ්‍යක්ෂණය 
+* කවිඳු බණ්ඩාර 
+
+
+[.right]
+== Assistant Director
+* Kavindu Bandara
+
+***
+
+[.left]
+== දෙවන කැමරාව 
+* ශිහාර ඕශා
+
+[.right]
+== 2nd camera
+* Shihara Osha
+
+[.left-2]
+== කැමරා සහය 
+* ඉෂාන් රවිහාර
+* අසංක ඉඳුනිල්
+* කවිඳු දිල්ශාන්
+
+[.right-2]
+== Camera Assistant
+* Ishan Ravihara
+* Asanka Indunil
+* Kawindu Dilshan
+
+***
+
+[.left]
+== කලා අධ්‍යක්ෂණය
+* නදීක හේවා කන්ඩම්බි
+* චතුරංග පෙරේරා
+
+
+[.right]
+== Art Direction
+* Nadeeka Hewa Kandambi
+* Chathuranga Perera
+
+***
+
+[.left]
+== අංග රචනය 
+* දහම්පත් වික්‍රමසිංහ 
+
+[.right]
+== Makeup Artist
+* Dahampath Wickramasinghe
+
+
+***
+
+[.left]
+== ඇඳුම් නිර්මාණය
+* ධනූ සමරසිංහ
+
+[.right]
+== Costume design
+* Dhanu Samarasinghe
+
+***
+
+[.left]
+== නිෂ්පාදන කළමනාකරණය 
+* බෙත්මින් ගම්සික 
+
+
+[.right]
+== Production Management
+* Bethmin Gamsika
+
+[.left-2]
+== නිෂ්පාදන කළමනාකරණ සහය
+* ලසිත් විතානගේ 
+
+[.right-2]
+== Production Assistant
+* Lasith Withanage
+
+***
+
+[.left]
+== ශබ්ද පරිපාලනය 
+* අරුණ සංජය 
+
+[.right]
+== Audio Recording
+* Aruna Sanjaya
+
+***
+
+[.left]
+== ආලෝකකරණය සහය
+* දිනෙත් අලහකෝන්
+
+[.right]
+== Lighting Assistant
+* Dineth Alahakoon
+
+***
+
+[.left]
+== තාක්ෂණික සහය 
+* පසිඳු ඒකනායක 
+* ජනාදර සමරදිවාකර 
+
+
+[.right]
+== Technical assistance
+* Pasindu Ekanayake
+* Janadara Samaradiwakara
+
+
+[.left-2]
+== ප්‍රචාරණ චිත්‍රක නිර්මාණය 
+* යසිරු සමරසිංහ 
+
+[.right-2]
+==  Graphic Designer
+* Yasiru Samarasinghe
+
+***
+
+[.left]
+== තාක්ෂණික සහය 
+* පසිඳු ඒකනායක 
+* ජනාදර සමරදිවාකර 
+
+
+[.right]
+=== © 2017—2024 ko Studios and base90 productions
+
+***
